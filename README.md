@@ -6,7 +6,7 @@ I'm an Undergraduate Student and Developer!
 
 #### Most of the Language that I use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfiacconi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gfiacconi&layout=compact&theme=dark)
 
 [![gfiacconi's GitHub stats](https://github-readme-stats-alpha-rust.vercel.app/api?username=gfiacconi&show_icons=true&hide_border=true&count_private=true&title_color=2aa889&icon_color=599cab&text_color=99d1ce&bg_color=0c1016)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 
